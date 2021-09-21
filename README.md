@@ -7,4 +7,4 @@ This app translate any english sentence into banana (Minion language). If you lo
  - CSS
  - Javascript (Vanilla)
  - Fetch API
- - [Minion Speak Translator] from Fun Translations API - (https://funtranslations.com/api/minion)
+ - [Minion Speak Translator](https://funtranslations.com/api/minion) from Fun Translations API 
